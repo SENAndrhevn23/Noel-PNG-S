@@ -2,17 +2,17 @@
 
 Originally created for **BTMC** streams, now released as **open source** for everyone to use!
 
-These are PNGs of **Noel** from **Celestial Method**. This pack currently contains **62 PNGs** (and may grow over time).
+These are PNGs of **Noel** from **Celestial Method**. This pack currently contains **97 PNGs** (and may grow over time).
 
 ## 📦 What's Included
-- 62 Noel PNGs
+- 97 Noel PNGs
 - Transparent backgrounds
 - Great for streams, videos, memes, Discord, and other projects
 
 ## 📅 Information
 
 **Original Release:** July 2, 2025  
-**Latest Update:** July 2, 2026
+**Latest Update:** July 3, 2026
 
 ## 📜 Usage
 
